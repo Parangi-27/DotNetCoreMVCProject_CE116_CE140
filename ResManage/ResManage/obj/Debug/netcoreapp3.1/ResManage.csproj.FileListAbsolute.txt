@@ -1,0 +1,319 @@
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csproj.AssemblyReference.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.AssemblyInfoInputs.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.AssemblyInfo.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csproj.CoreCompileInputs.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorAssemblyInfo.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorAssemblyInfo.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.exe
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.deps.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.runtimeconfig.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.runtimeconfig.dev.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.pdb
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.Views.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.Views.pdb
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\staticwebassets\ResManage.StaticWebAssets.Manifest.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\staticwebassets\ResManage.StaticWebAssets.xml
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\scopedcss\bundle\ResManage.styles.css
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.TagHelpers.input.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.TagHelpers.output.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorCoreGenerate.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorTargetAssemblyInfo.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorTargetAssemblyInfo.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.Views.pdb
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csproj.CopyComplete
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.pdb
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.genruntimeconfig.cache
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Index.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Details.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Create.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Edit.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Delete.cshtml.g.cs
+C:\Users\Krupali\source\repos\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\wwwroot\mydefault.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\libman.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.exe
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.deps.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.runtimeconfig.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.runtimeconfig.dev.json
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.pdb
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.Views.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ResManage.Views.pdb
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csprojAssemblyReference.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.AssemblyInfoInputs.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.AssemblyInfo.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorAssemblyInfo.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorAssemblyInfo.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\staticwebassets\ResManage.StaticWebAssets.Manifest.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\staticwebassets\ResManage.StaticWebAssets.xml
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\scopedcss\bundle\ResManage.styles.css
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.TagHelpers.input.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.TagHelpers.output.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorCoreGenerate.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Create.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Delete.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Details.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Edit.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Food\Index.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\wwwroot\mydefault.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorTargetAssemblyInfo.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.RazorTargetAssemblyInfo.cs
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.Views.pdb
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.csproj.CopyComplete
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.dll
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.pdb
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\ResManage.genruntimeconfig.cache
+E:\Visual Studio\ResManage\ResManage\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Visual Studio\ResManage\ResManage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
