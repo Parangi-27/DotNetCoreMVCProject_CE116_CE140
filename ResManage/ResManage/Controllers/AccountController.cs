@@ -81,7 +81,7 @@ namespace ResManage.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("index", "home");
+                        return RedirectToAction("index", "Food");
                     }
                 }
                 ModelState.AddModelError(String.Empty, "Incorrect Username or Password.");

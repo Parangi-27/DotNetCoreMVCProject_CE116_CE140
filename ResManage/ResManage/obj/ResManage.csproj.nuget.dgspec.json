@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio\\ResManage\\ResManage\\ResManage.csproj": {}
+    "C:\\Users\\Parangi\\Downloads\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio\\ResManage\\ResManage\\ResManage.csproj": {
+    "C:\\Users\\Parangi\\Downloads\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\ResManage\\ResManage\\ResManage.csproj",
+        "projectUniqueName": "C:\\Users\\Parangi\\Downloads\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj",
         "projectName": "ResManage",
-        "projectPath": "E:\\Visual Studio\\ResManage\\ResManage\\ResManage.csproj",
+        "projectPath": "C:\\Users\\Parangi\\Downloads\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj",
         "packagesPath": "C:\\Users\\Parangi\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\ResManage\\ResManage\\obj\\",
+        "outputPath": "C:\\Users\\Parangi\\Downloads\\ResManage (2)\\ResManage\\ResManage\\ResManage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Parangi\\AppData\\Roaming\\NuGet\\NuGet.Config",

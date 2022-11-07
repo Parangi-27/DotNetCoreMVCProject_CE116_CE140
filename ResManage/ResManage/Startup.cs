@@ -33,6 +33,7 @@ namespace ResManage
                 .AddEntityFrameworkStores<MyAppDbContext>();
             services.AddControllersWithViews();
             services.AddScoped<IFoodRepository, SQLFoodRepository>();
+            services.AddScoped<IOrderRepository, SQLOrderRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
