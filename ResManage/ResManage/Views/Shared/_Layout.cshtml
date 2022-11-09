@@ -9,41 +9,76 @@
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
     <script src="~/lib/bootstrap/js/bootstrap.js"></script>
     <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="~/css/style.css">
 </head>
 <body>
-    <div class="container">
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-            <ul class="navbar-nav flex-grow-1">
-                <li class="nav-item">
-                    <a class="nav-link" asp-controller="account" asp-action="register">
-                        Register
-                    </a>
-                </li>
-                <li>
-                    <a class="nav-link" asp-controller="account" asp-action="login">
-                        Login
-                    </a>
-                </li>
-                <li>
-                    @* @if (signInManager.IsSignedIn(User))*@
-                    @* {*@
-                    <form method="post" asp-controller="account" asp-action="logout">
-                        @*<a class="btn btn-primary" asp-area="" >Logout</a>*@
-                        <button type="submit" style="width:auto" class="nav-link btn btn-primary py-0">
-                            Logout
-                        </button>
-                    </form>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <ul class="navbar-nav flex-grow-1">
+            <li style="margin-left: 1550px">
+                <form method="post" asp-controller="home" asp-action="index">
+                    @*<a class="btn btn-primary" asp-area="" >Logout</a>*@
+                    <button type="submit" style="width:auto; color:black" class="nav-link btn btn-primary">
+                        <i class="fa fa-home"></i>
+                    </button>
+                </form>
+            </li>
+            <!--
+    <li>
+        @* @if (signInManager.IsSignedIn(User))*@
+        @* {*@
+        <form method="post" asp-controller="account" asp-action="logout">
+            @*<a class="btn btn-primary" asp-area="" >Logout</a>*@
+            <button type="submit" style="width:auto" class="nav-link btn btn-primary py-0">
+                Logout
+            </button>
+        </form>
 
-                </li>
-            </ul>
-        </nav>
-        <div>
-            @RenderBody()
-        </div>
-        @if (IsSectionDefined("Scripts"))
-        {
-            @RenderSection("Scripts", required: false)
-        }
+    </li>-->
+        </ul>
+    </nav>
+    <div>
+        <!--
+        <div class="container">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="account" asp-action="register">
+                            Register
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" asp-controller="account" asp-action="login">
+                            Login
+                        </a>
+                    </li>
+                    <li>
+                        @* @if (signInManager.IsSignedIn(User))*@
+                        @* {*@
+                        <form method="post" asp-controller="account" asp-action="logout">
+                            @*<a class="btn btn-primary" asp-area="" >Logout</a>*@
+                            <button type="submit" style="width:auto" class="nav-link btn btn-primary py-0">
+                                Logout
+                            </button>
+                        </form>
+
+                    </li>
+                </ul>
+            </nav>
+            <div>-->
+        @RenderBody()
+    </div>
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts", required: false)
+    }
     </div>
 </body>
 </html>

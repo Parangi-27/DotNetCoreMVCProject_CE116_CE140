@@ -41,7 +41,7 @@ namespace ResManage.Controllers
                 if (result.Succeeded)
                 {
                     await signInManager.SignInAsync(user, isPersistent: false);
-                    return RedirectToAction("index", "Food");
+                    return RedirectToAction("index", "HomeController1");
                 }
                 foreach (var error in result.Errors)
                 {
@@ -81,7 +81,7 @@ namespace ResManage.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("index", "Food");
+                        return RedirectToAction("index", "HomeController1");
                     }
                 }
                 ModelState.AddModelError(String.Empty, "Incorrect Username or Password.");
