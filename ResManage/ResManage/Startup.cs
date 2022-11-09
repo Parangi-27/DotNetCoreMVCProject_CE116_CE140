@@ -34,6 +34,7 @@ namespace ResManage
             services.AddControllersWithViews();
             services.AddScoped<IFoodRepository, SQLFoodRepository>();
             services.AddScoped<IOrderRepository, SQLOrderRepository>();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,7 +56,7 @@ namespace ResManage
             options.DefaultFileNames.Add("mydefault.html");
             app.UseDefaultFiles(options);
             app.UseStaticFiles();
-
+            app.UseSession();
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
