@@ -8631,11 +8631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Parangi\\Downloads\\WAD NEW 2.0\\WAD NEW 2.0\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj",
+      "projectUniqueName": "E:\\Visual Studio\\DotNetCoreMVCProject_CE116_CE140\\ResManage\\ResManage\\ResManage.csproj",
       "projectName": "ResManage",
-      "projectPath": "C:\\Users\\Parangi\\Downloads\\WAD NEW 2.0\\WAD NEW 2.0\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj",
+      "projectPath": "E:\\Visual Studio\\DotNetCoreMVCProject_CE116_CE140\\ResManage\\ResManage\\ResManage.csproj",
       "packagesPath": "C:\\Users\\Parangi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Parangi\\Downloads\\WAD NEW 2.0\\WAD NEW 2.0\\ResManage (2)\\ResManage\\ResManage\\ResManage\\obj\\",
+      "outputPath": "E:\\Visual Studio\\DotNetCoreMVCProject_CE116_CE140\\ResManage\\ResManage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Parangi\\AppData\\Roaming\\NuGet\\NuGet.Config",

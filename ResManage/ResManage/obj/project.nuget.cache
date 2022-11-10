@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjdgPE1zu5SEBXGdI24Pum7MXsA/lnHqJ/6WCqEo0DxLzCObobphxP5lHnmloRbwJcp4FmXSx9KA00tFOinyxA==",
+  "dgSpecHash": "/GAfKUIW27Df3z8ZPFdCSVT/P5jchn9Msxl6Y1+rdAGo2ehhFyJq+ar2T5hwYNiV9fIOYTcBi2L6SXglirZXnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Parangi\\Downloads\\WAD NEW 2.0\\WAD NEW 2.0\\ResManage (2)\\ResManage\\ResManage\\ResManage\\ResManage.csproj",
+  "projectFilePath": "E:\\Visual Studio\\DotNetCoreMVCProject_CE116_CE140\\ResManage\\ResManage\\ResManage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Parangi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.29\\microsoft.aspnetcore.cryptography.internal.3.1.29.nupkg.sha512",
     "C:\\Users\\Parangi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.29\\microsoft.aspnetcore.cryptography.keyderivation.3.1.29.nupkg.sha512",
